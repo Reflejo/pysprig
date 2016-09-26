@@ -1,0 +1,42 @@
+{
+    "customer_email": "reflejo@gmail.com",
+    "customer_id": 170969,
+    "delivery_available": true,
+    "delivery_fee": 0,
+    "delivery_fee_expires_at": "2016-09-23T21:50:22-07:00",
+    "display_go_advertisement": false,
+    "guest_auth_token": null,
+    "guest_name": null,
+    "id": 2657336,
+    "items_total": 2490,
+    "line_items": [
+        {
+            "image": "http://dayf2q1b8xzb4.cloudfront.net/dishes/photo_without_background_v2s/000/001/852/original/31201dc9-d41d-4f5b-8692-79ca242a0b90_photo_without_background_v2.png?1460140005",
+            "menu_item_id": 19541,
+            "price": 1195,
+            "quantity": 1,
+            "title": "BBQ Pulled Pork Sandwich with Potato Salad",
+            "type": "dish"
+        },
+        {
+            "image": "http://dayf2q1b8xzb4.cloudfront.net/dishes/photo_without_background_v2s/000/001/774/original/o_1aa2vj60qp4p3ku1a9ccdviuja-entree_blackened_chicken_with_carrot_puree_1124_photo_without_background_v2.png?1458673089",
+            "menu_item_id": 19542,
+            "price": 1295,
+            "quantity": 1,
+            "title": "Blackened Chicken with Roasted Broccoli",
+            "type": "dish"
+        },
+        {
+            "image": null,
+            "price": 218,
+            "quantity": 0,
+            "title": "Tax",
+            "type": "sales_tax"
+        }
+    ],
+    "owner_name": "Martin Conte Mac Donell",
+    "rush_level": 20,
+    "sales_tax": 218,
+    "tip_amount_cents": 0,
+    "total": 2708
+}

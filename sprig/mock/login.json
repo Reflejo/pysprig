@@ -1,0 +1,86 @@
+{
+    "app_state": null,
+    "authentication_token": "auth_example",
+    "balance": 0,
+    "credit_card_brand": "Visa",
+    "credit_card_last4": "4242",
+    "credit_cards": [
+        {
+            "brand": "Visa",
+            "default": true,
+            "exp_month": "7",
+            "exp_year": "2020",
+            "id": 1337,
+            "last4": "4242"
+        }
+    ],
+    "delivery_addresses": [
+        {
+            "address_city": "San Francisco",
+            "apt_number": "1337",
+            "bag": false,
+            "buzzer_code": "",
+            "city": "sf",
+            "company_name": null,
+            "confirmed": true,
+            "contact_preference": "call",
+            "current": true,
+            "cutlery": true,
+            "floor_number": "5",
+            "id": 1337,
+            "instructions": "yo",
+            "latitude": 37.174239,
+            "longitude": -122.291085,
+            "name": "home",
+            "parking_instructions": "",
+            "state": "CA",
+            "street_address": "1337 Barry St",
+            "zip": "94158"
+        }
+    ],
+    "email": "reflejo@gmail.com",
+    "experiments": {
+        "participating_group_for_menu_item_ordering": 0,
+        "participating_group_for_post_checkout_referral": 1,
+        "participating_group_for_post_checkout_referral_interface_two": 0
+    },
+    "first_name": "Martin",
+    "first_time": false,
+    "full_balance": "$0.00 credit",
+    "id": 1337,
+    "last_name": "Conte Mac Donell",
+    "name": "Martin Conte Mac Donell",
+    "phone_number": "(123) 123 - 123",
+    "push_notification_preferences": [
+        {
+            "enabled": true,
+            "id": 573951,
+            "preference_type": "order_status",
+            "title": "Order Status"
+        },
+        {
+            "enabled": true,
+            "id": 573952,
+            "preference_type": "special_menu_items",
+            "title": "Special Menu Items"
+        },
+        {
+            "enabled": true,
+            "id": 573953,
+            "preference_type": "guest_chef_night",
+            "title": "Guest Chef Night"
+        }
+    ],
+    "push_status_updates": true,
+    "referral": {
+        "amount": 10,
+        "code": "CONTE56931",
+        "details": "INVITE YOUR FRIENDS TO TRY SPRIG.|THEY USE YOUR CODE FOR $10 OFF.|WHEN THEY ORDER, YOU GET $20!",
+        "header": "SHARE SPRIG, GET SPRIG",
+        "referral_amount": 20,
+        "share_link": "https://www.sprig.com/#/invite/CONTE56931",
+        "view_type": 1
+    },
+    "subscription_ends_at": "10.08.2016",
+    "subscription_status": "active"
+}

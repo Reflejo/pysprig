@@ -1,0 +1,30 @@
+{
+    "about_description": "Sprig was born of the desire to make eating well simple and accessible. After too many unfulfilling meals at the end of long work days, we insisted there be a better option. Instead of choosing between quick, greasy takeout or elaborate, expensive restaurants, Sprig combines the best of both into wholesome, delicious, convenient food you can trust.",
+    "announcement_id": null,
+    "authenticated": null,
+    "change_address_popup": true,
+    "cross_contamination_text": "When we make our dishes, cross-contact with other foods (like wheat, soy, milk, eggs, peanuts, tree nuts, fish and shellfish) may occur and our ingredient information may not always include such foods. If you have serious food allergies, please check with your doctor to see whether ordering our food is a safe option for you.",
+    "customer": null,
+    "delivery_instruction_options": [
+        "I'll be outside",
+        "Leave in lobby",
+        "Meet me at door"
+    ],
+    "device": null,
+    "display_menu_gift_cards": true,
+    "first_time_order_popup": false,
+    "first_time_order_popup_message": "We'll start your order right away and send a Sprig Server out as soon as possible.",
+    "first_time_order_popup_title": "Ready to eat?",
+    "max_instructions_length": 220,
+    "nutritional_disclaimer": "All nutrition info based on a single meal. We try to be as accurate in our estimations as possible, though some variation may occur in serving sizes.",
+    "order_cancelling_enabled": false,
+    "promotion_link": null,
+    "ratings_first": "Meh",
+    "ratings_second": "Good",
+    "ratings_third": "Excellent",
+    "stripe_publishable_key": "pk_live_example",
+    "subscription_cost": 10,
+    "support_email_address": "support@sprig.com",
+    "support_phone_number": "510-454-8083",
+    "where_we_deliver": "San Francisco"
+}
