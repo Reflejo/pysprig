@@ -122,6 +122,7 @@ class CurrentMenu(Model):
         self.meal_name = json.get("meal_name")
         self.meal_id = json.get("meal_id")
         self.open_now = json.get("open_now", False)
+        self.order_status = json.get("app_screen_status")
         self.unavailable_title = json.get("unavailable_title", "Open")
         self.tracker_id = json.get("menu_tracker_id")
         self.tracker_hash = json.get("menu_tracker_hash")

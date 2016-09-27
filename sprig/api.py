@@ -12,7 +12,8 @@ URL = {
     "login": "https://prod.eatsprig.com/api/customer/login",
     "settings": "https://prod.eatsprig.com/api/customer/settings",
     "carts": "https://prod.eatsprig.com/api/customer/carts",
-    "order": "https://prod.eatsprig.com/api/customer/order",
+    "order": "https://prod.eatsprig.com/api/customer/orders",
+    "track": "https://prod.eatsprig.com/api/customer/orders/track",
     "ratings": "https://prod.eatsprig.com/api/customer/ratings",
 }
 
